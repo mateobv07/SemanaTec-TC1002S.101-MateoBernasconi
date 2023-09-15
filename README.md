@@ -3,7 +3,7 @@
 Para correr cualquier archivo, debe ejecutar en la terminal
 
 Mac: \
-  python3 nombreDeArchivo.py\
+  python3 nombreDeArchivo.py
 
 Windows: \
   python nombreDeArchivo.py
